@@ -13,8 +13,6 @@ Say the command "ses" followed by one of the next:
   - Some common declarations "ses text uppercase" -> <code>text-transform: uppercase;</code>
 
 ## Notes
-- For keywords containing the word **inline** or **align** use the word **online**
-  instead to prevent Dragon Dictate from crashing.
-- For keywords containing the word **nth** use **ninth** for better recognition
-- Some values are common words but they are here in case of difficulty
-  getting Dragon to recognize some of them. Some of them are commended out because they're just common words, uncomment any of them if you have trouble getting Dragon Dictate to recognize them.
+- For keywords containing the word **inline** or **align** use the word **online** instead to prevent Dragon Dictate from crashing.
+- For keywords containing the word **nth** use **ninth** for better recognition.
+- Some values are common words but they are here in case of difficulty getting Dragon to recognize some of them. Some of them are commented out because they're just common words, uncomment any of them if you have trouble getting Dragon Dictate to recognize them.
