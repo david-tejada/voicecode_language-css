@@ -1,5 +1,8 @@
 This folder extends VoiceCode to allow for much easier introduction of CSS code.
 
+## Installation
+Copy the folder `language-css` to the folder `~/voicecode/commando/user/`.
+
 ## Usage
 Say the command "ses" followed by one of the next:
   - Property: "ses border bottom" -> <code>border-bottom: ;</code>
